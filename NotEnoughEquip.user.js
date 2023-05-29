@@ -5,7 +5,7 @@
 // @name:ja     咕咕镇ビーチの自動更新
 // @namespace   https://github.com/GuguTown/NotEnoughEquip
 // @homepage    https://github.com/GuguTown/NotEnoughEquip
-// @version     0.1.02
+// @version     0.1.0.2
 // @description WebGame GuguTown Automatic Beach Refresh.
 // @description:zh-CN 气人页游 咕咕镇 沙滩自动刷新。
 // @description:zh-TW 氣人頁遊 咕咕鎮 沙灘自動刷新。
