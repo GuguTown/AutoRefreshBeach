@@ -1,5 +1,5 @@
-# NotEnoughEquip
-Not Enough Equip. 咕咕镇沙滩到时刷新随机装备，原作者ikarosf已弃坑，[原项目地址](https://greasyfork.org/scripts/397225)，现由咕咕镇Wiki组基金会接管。
+# AutoRefreshBeach
+Auto Refresh Beach Equip. 咕咕镇沙滩到时刷新随机装备，原作者ikarosf已弃坑，[原项目地址](https://greasyfork.org/scripts/397225)，现由咕咕镇Wiki组基金会接管。
 
 ## 介绍
 只要你坚持不懈，每12天就可以多刷新一轮！   
